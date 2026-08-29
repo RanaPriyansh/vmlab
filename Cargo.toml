@@ -1,0 +1,12 @@
+[package]
+name = "vmlab"
+version = "0.1.0"
+edition = "2021"
+authors = ["RanaPriyansh"]
+license = "MIT"
+description = "A CS-spine memory management lab: bump allocator, freelist, and virtual memory simulation"
+repository = "https://github.com/RanaPriyansh/vmlab"
+
+[dependencies]
+
+[dev-dependencies]
